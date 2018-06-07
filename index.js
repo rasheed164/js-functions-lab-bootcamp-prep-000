@@ -1,2 +1,2 @@
-console.log('happyHolidays'!)
+console.log("happyHolidays"!)
 // write your code below!
